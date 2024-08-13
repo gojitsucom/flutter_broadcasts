@@ -33,6 +33,8 @@ android {
     defaultConfig {
         minSdkVersion 24
     }
+
+    namespace 'de.kevlatus.flutter_broadcasts'
 }
 
 dependencies {
