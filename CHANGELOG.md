@@ -1,3 +1,7 @@
+## 0.5.0
+
+* Update build gradle
+
 ## 0.4.0
 
 * Fix duplicated listeners by removing .asBroadcastStream
